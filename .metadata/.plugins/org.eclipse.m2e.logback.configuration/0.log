@@ -5677,3 +5677,4 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact io.cucumber:c
 2019-10-15 21:35:05,971 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Priya\Softwares\Eclipse 2\Selenium\FreeCRM\src\test\resources
 2019-12-07 18:08:21,100 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2020-01-15 21:15:13,915 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-01-19 18:29:04,027 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
